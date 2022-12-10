@@ -39,4 +39,3 @@ power = exp.adjust_gamma(bit, y, c)
 plt.imshow(power, cmap='gray')
 plt.title('Power (gamma) Rule')
 plt.show()
-
