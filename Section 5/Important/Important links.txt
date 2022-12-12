@@ -1,0 +1,13 @@
+Links:
+https://scikit-image.org/docs/stable/api/skimage.filters.html#skimage.filters.gaussian
+--
+https://www.educative.io/answers/what-is-a-subplots-in-matplotlib?fbclid=IwAR3xQ8D4_OSnKnvl-0XLWf0Mhv35pz2jNtYANu-Za1v13xg_Yi5LcyQ0aK8
+--
+https://matplotlib.org/stable/gallery/subplots_axes_and_figures/subplots_demo.html?fbclid=IwAR0dn2pfXtitHlv-aPBvvTt2uFRvVeWomlKaZTEgnmRSNElH4rM-vmUSid8
+--
+https://www.w3schools.com/python/matplotlib_subplot.asp?fbclid=IwAR1-UYAamm8BVNRxwmSC-k1uEW1FlxQ-izfhEuy9aYdQv5r9vi7-gobnfDE
+______________________________________
+Videos:
+https://www.youtube.com/watch?v=C_zFhWdM4ic
+--
+https://www.youtube.com/watch?v=uihBwtPIBxM
