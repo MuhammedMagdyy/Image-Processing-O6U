@@ -41,7 +41,13 @@ Feel free to explore each code example's directory.
 
 To set up this repository locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/MuhammedMagdyy/Image-Processing-O6U.git`
-2. Change to the project's directory: `cd Image-Processing-O6U`
+1. Clone the repository 
+```
+git clone https://github.com/MuhammedMagdyy/Image-Processing-O6U.git
+```
+2. Change to the project's directory
+```
+cd Image-Processing-O6U
+```
 
 Happy coding!
